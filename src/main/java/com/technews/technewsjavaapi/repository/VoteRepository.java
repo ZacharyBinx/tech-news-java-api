@@ -1,4 +1,6 @@
-package com.technews.technewsjavaapi.model;
+package com.technews.technewsjavaapi.repository;
+
+import com.technews.technewsjavaapi.model.Vote;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
